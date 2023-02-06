@@ -2,6 +2,7 @@
 Замена Scanner из java.util на собственную ускоренную версию
 
 (Задание взято с [этого](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html) сайта)
+(Все тесты стоит запускать через командную строку)
 
 
 * Реализуйте свой аналог класса Scanner на основе Reader.
